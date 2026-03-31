@@ -32,15 +32,6 @@ From advertising creative director to full-stack developer, I've spent 20+ years
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=johnfmorton&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnfmorton&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
----
-
 ### Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnfmorton.com-000000?style=flat-square)](https://johnfmorton.com)
